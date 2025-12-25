@@ -1,0 +1,14 @@
+# File hệ thống Python
+__pycache__/
+*.pyc
+
+# Môi trường ảo (nếu bạn có dùng)
+venv/
+env/
+.env
+
+# File dữ liệu quá lớn (nếu file csv > 100MB thì bỏ comment dòng dưới)
+# train_tweet.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
